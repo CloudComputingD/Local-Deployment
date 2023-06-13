@@ -21,8 +21,6 @@
 ### Spring 서버 실행 방법
 
 - jar 파일은 size 이슈로 카톡으로 보내겠음. 압축 풀어서 docker-compose 경로와 같은 경로로(같은 루트) 옮겨줘야 함!
-- ![image](https://github.com/CloudComputingD/Local-Deployment/assets/73868703/e74f598c-cfd4-4d0a-8a33-6a5d96b11e13)
-
 
 - 해당 폴더를 오른쪽 클릭 한 후 [Git Bash here…] 을 클릭 한다.
     - Docker를 통한 DBMS 실행. Spring 서버를 실행 하기 전에 수행 하여야 함.
